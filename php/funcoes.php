@@ -454,6 +454,9 @@ function maioremedia($num1,$num2,$num3){
         }
         return $rea;
     }
+//24
+    function pesquisa($sal,$fil)
+        
 
 
 
